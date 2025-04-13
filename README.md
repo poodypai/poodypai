@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poodypai
-- 🌱 I’m currently learning Android Development for College Project
-- 💞️ I’m looking to collaborate on nothing right now.
+- 🌱 I’m a Bioinformatics student in Kathmandu University
+
 
 <!---
 poodypai/poodypai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
