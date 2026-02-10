@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @poodypai
-- 🌱 I’m a Bioinformatics student in Kathmandu University
-
+- 🌱 BSc in Bioinformatics @ Kathmandu University
 
 <!---
 poodypai/poodypai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
